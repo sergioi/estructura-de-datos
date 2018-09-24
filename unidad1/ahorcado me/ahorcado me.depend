@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1537759018 source:c:\users\sergio\desktop\estructura de datos\practicas\ahorcado me\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"juego.h"
+
+1537758104 source:c:\users\sergio\desktop\estructura de datos\practicas\ahorcado me\juego.cpp
+	"juego.h"
+	<cstdlib>
+	<iostream>
+	<string>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+
+1537754042 c:\users\sergio\desktop\estructura de datos\practicas\ahorcado me\juego.h
+	<string>
+
+1537758104 source:c:\users\sergio\desktop\estructura de datos\estructura-de-datos\unidad1\ahorcado me\juego.cpp
+	"juego.h"
+	<cstdlib>
+	<iostream>
+	<string>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+
+1537754042 c:\users\sergio\desktop\estructura de datos\estructura-de-datos\unidad1\ahorcado me\juego.h
+	<string>
+
