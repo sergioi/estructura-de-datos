@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537803449 source:c:\users\sergio\desktop\estructura de datos\practicas\conjunto me\main.cpp
+	<iostream>
+	"operaciones.h"
+	<stdlib.h>
+
+1537802571 source:c:\users\sergio\desktop\estructura de datos\practicas\conjunto me\operaciones.cpp
+	"operaciones.h"
+	<iostream>
+
+1537767072 c:\users\sergio\desktop\estructura de datos\practicas\conjunto me\operaciones.h
+

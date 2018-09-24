@@ -37,3 +37,13 @@
 1537754042 c:\users\sergio\desktop\estructura de datos\estructura-de-datos\unidad1\ahorcado me\juego.h
 	<string>
 
+1537759641 source:c:\users\sergio\desktop\estructura de datos\estructura-de-datos\unidad1\ahorcado me\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+	"juego.h"
+
