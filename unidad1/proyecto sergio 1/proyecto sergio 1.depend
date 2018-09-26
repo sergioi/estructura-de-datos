@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1537330396 source:c:\users\sergio\desktop\estructura de datos\primera undiad\proyecto sergio 1\listado.cpp
+	"listado.h"
+
+1537337176 c:\users\sergio\desktop\estructura de datos\primera undiad\proyecto sergio 1\listado.h
+	<istream>
+	<string>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1537335983 source:c:\users\sergio\desktop\estructura de datos\primera undiad\proyecto sergio 1\main.cpp
+	<iostream>
+	<fstream>
+	"listado.h"
+	<string.h>
+	<cstdlib>
+
