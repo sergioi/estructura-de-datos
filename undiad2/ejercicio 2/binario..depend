@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538518784 source:c:\users\sergio\desktop\estructura de datos\segunda unidad\binario.\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1538713876 source:c:\users\sergio\desktop\estructura de datos\segunda unidad\ejerccios uidad 2\ejercicio 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+

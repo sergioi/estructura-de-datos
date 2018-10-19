@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538530017 source:c:\users\sergio\desktop\estructura de datos\segunda unidad\cmabio\cambio.cpp
+	"cambio.h"
+	<iostream>
+
+1538523171 c:\users\sergio\desktop\estructura de datos\segunda unidad\cmabio\cambio.h
+
+1538529886 source:c:\users\sergio\desktop\estructura de datos\segunda unidad\cmabio\main.cpp
+	<iostream>
+	"cambio.h"
+
+1538579533 source:c:\users\sergio\desktop\estructura de datos\segunda unidad\ejerccios uidad 2\ejercicio 3\cambio.cpp
+	"cambio.h"
+	<iostream>
+
+1538523171 c:\users\sergio\desktop\estructura de datos\segunda unidad\ejerccios uidad 2\ejercicio 3\cambio.h
+
+1538529886 source:c:\users\sergio\desktop\estructura de datos\segunda unidad\ejerccios uidad 2\ejercicio 3\main.cpp
+	<iostream>
+	"cambio.h"
+
