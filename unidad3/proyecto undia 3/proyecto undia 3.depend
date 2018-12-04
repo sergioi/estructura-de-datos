@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541718267 source:c:\users\sergio\documents\estructura-de-datos\unidad3\proyecto undia 3\main.cpp
+	<iostream>
+	"pilas.h"
+	<conio.h>
+	<cstdlib>
+
+1541610610 c:\users\sergio\documents\estructura-de-datos\unidad3\proyecto undia 3\include\pilas.h
+
+1541717116 source:c:\users\sergio\documents\estructura-de-datos\unidad3\proyecto undia 3\src\pilas.cpp
+	"pilas.h"
+
